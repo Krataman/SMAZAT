@@ -13,4 +13,4 @@ public class Main {
         farmar.rozsirStodolu();
         farmar.kupMistoVeStodole(500.0);
     }
-    }
+}
