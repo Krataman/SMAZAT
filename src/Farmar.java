@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Farmar implements SpravaZvirat, SpravaRostlin, SpravaFinanci, SpravaMajetku {
     private List<Rostlina> rostliny;
     private List<Zvire> zvirata;
