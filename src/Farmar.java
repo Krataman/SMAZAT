@@ -83,4 +83,5 @@ public class Farmar implements SpravaZvirat, SpravaRostlin, SpravaFinanci, Sprav
         financniSprava.odecistiPenize(cena);
         System.out.println("Místo ve stodole bylo zakoupeno za " + cena + ".");
 
+    }
 }
