@@ -12,4 +12,5 @@ public abstract class Zvire {
     }
 
     public abstract void hladit();
+
 }
